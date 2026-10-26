@@ -1,0 +1,1 @@
+Future integrations may call TaskService and ProjectService through an authenticated repository. No AI provider, credentials or AI requests are included in v1. Never bypass user ownership or PostgreSQL RLS.
